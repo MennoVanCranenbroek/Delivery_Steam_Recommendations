@@ -1,0 +1,1575 @@
+id,title,genres,Action,Adventure,Casual,Early Access,Free to Play,Gore,Indie,Massively Multiplayer,Nudity,RPG,Racing,Sexual Content,Simulation,Sports,Strategy,Violent
+1.0,Dota 2,Action;Free to Play;Strategy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+8.0,Warframe,Action;Free to Play,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+9.0,War Thunder,Action;Free to Play;Massively Multiplayer;Simulation,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0
+11.0,Grand Theft Auto V,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17.0,Rust,Action;Adventure;Indie;Massively Multiplayer;RPG,1,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+18.0,Euro Truck Simulator 2,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+31.0,Project Zomboid,Indie;RPG;Simulation;Early Access,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0
+32.0,Team Fortress 2,Action;Free to Play,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+47.0,The Forest,Action;Adventure;Indie;Simulation,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+72.0,Terraria,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+79.0,BeamNG.drive,Racing;Simulation;Early Access,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0
+85.0,DayZ,Action;Adventure;Massively Multiplayer,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+90.0,Assetto Corsa,Indie;Racing;Simulation;Sports,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0
+102.0,Garry's Mod,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+104.0,Left 4 Dead 2,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+106.0,Fallout 4,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+111.0,PAYDAY 2,Action;RPG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+128.0,Squad,Action;Indie;Strategy;Early Access,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+142.0,Arma 3,Action;Simulation;Strategy,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+147.0,7 Days to Die,Nudity;Violent;Gore;Action;Adventure;Indie;RPG;Simulation;Strategy;Early Access,1,1,0,1,0,1,1,0,1,1,0,0,1,0,1,1
+154.0,Europa Universalis IV,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+161.0,Brawlhalla,Action;Free to Play;Indie,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+176.0,EVE Online,Action;Free to Play;Massively Multiplayer;RPG;Strategy,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0
+186.0,Subnautica,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+193.0,Tabletop Simulator,Casual;Indie;RPG;Simulation;Strategy,0,0,1,0,0,0,1,0,0,1,0,0,1,0,1,0
+198.0,Space Engineers,Action;Indie;Simulation;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+204.0,Dying Light,Action;RPG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+210.0,Path of Exile,Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG,1,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+216.0,This War of Mine,Adventure;Indie;Simulation,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+219.0,Elite Dangerous,Action;Adventure;Massively Multiplayer;RPG;Simulation;Strategy,1,1,0,0,0,0,0,1,0,1,0,0,1,0,1,0
+243.0,Portal 2,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+270.0,Grim Dawn,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+285.0,Star Trek Online,Free to Play;Massively Multiplayer;RPG,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+297.0,Fishing Planet,Free to Play;Massively Multiplayer;Simulation;Sports,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0
+313.0,Kenshi,Action;Indie;RPG;Simulation;Strategy,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0
+314.0,rFactor 2,Racing;Simulation;Sports,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+328.0,Borderlands 2,Action;RPG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+341.0,PlanetSide 2,Action;Free to Play;Massively Multiplayer,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+344.0,Kerbal Space Program,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+347.0,Trove,Action;Adventure;Casual;Free to Play;Massively Multiplayer;RPG,1,1,1,0,1,0,0,1,0,1,0,0,0,0,0,0
+354.0,Prison Architect,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+366.0,The Long Dark,Adventure;Indie;Simulation;Strategy,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+382.0,Killing Floor 2,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393.0,Company of Heroes 2,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+411.0,Portal,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+418.0,Gang Beasts,Action;Adventure;Casual;Indie,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+431.0,Stranded Deep,Adventure;Indie;Early Access,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+440.0,Automation - The Car Company Tycoon Game,Simulation;Strategy;Early Access,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0
+455.0,Left 4 Dead,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+467.0,Neverwinter,Adventure;Free to Play;Massively Multiplayer;RPG,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+480.0,Geometry Dash,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+517.0,Undertale,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+535.0,Counter-Strike,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+547.0,Black Mesa,Action;Adventure;Indie;Early Access,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+559.0,Outlast,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+566.0,Battle Brothers,Indie;RPG;Strategy,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+583.0,Warface,Action;Free to Play;Massively Multiplayer,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+597.0,"Papers, Please",Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+599.0,Half-Life 2,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+621.0,Goat Simulator,Casual;Indie;Simulation,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+624.0,Fable Anniversary,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+625.0,Keep Talking and Nobody Explodes,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+632.0,Call to Arms,Action;Free to Play;Indie;Simulation;Strategy,1,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0
+643.0,Crusader Kings II,RPG;Simulation;Strategy,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0
+672.0,Metro 2033 Redux,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+691.0,Dead Space,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+704.0,Viscera Cleanup Detail,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+710.0,BioShock Infinite,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+718.0,Hero Siege,Action;Adventure;Indie;Massively Multiplayer;RPG,1,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+732.0,Half-Life,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+736.0,Prey,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+764.0,Starbound,Action;Adventure;Casual;Indie;RPG,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+775.0,Dishonored,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+789.0,Rivals of Aether,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+836.0,Heroes & Generals,Action;Free to Play;Indie;Massively Multiplayer,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+870.0,Far Cry 3,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+916.0,Unturned,Action;Adventure;Casual;Free to Play;Indie,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+935.0,Paint the Town Red,Action;Indie;Early Access,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+952.0,Victoria II,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+967.0,Dungeon Defenders II,Action;Free to Play;Indie;RPG;Strategy,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0
+995.0,Little Inferno,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+1006.0,TerraTech,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1012.0,The Evil Within,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1057.0,The Universim,Indie;Simulation;Strategy;Early Access,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0
+1070.0,Mortal Kombat X,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1072.0,Tomb Raider,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1097.0,SOMA,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1100.0,Company of Heroes,Violent;Action;Strategy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+1117.0,Empyrion - Galactic Survival,Adventure;Indie;Simulation;Strategy;Early Access,0,1,0,1,0,0,1,0,0,0,0,0,1,0,1,0
+1128.0,Crypt of the NecroDancer,Action;Indie;RPG,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+1152.0,Besiege,Indie;Simulation;Early Access,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+1156.0,Town of Salem,Indie;RPG;Strategy,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+1163.0,Broforce,Action;Adventure;Casual;Indie,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+1181.0,Banished,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+1191.0,Max Payne 3,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1197.0,Pillars of Eternity,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1228.0,Mini Metro,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+1232.0,Stronghold Crusader 2,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+1233.0,POSTAL 2,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1272.0,The Jackbox Party Pack 2,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+1274.0,Tales of Zestiria,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1289.0,Saints Row IV,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1299.0,Five Nights at Freddy's,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+1307.0,L.A. Noire,Adventure;Strategy,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1310.0,Hotline Miami,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1330.0,Elsword,Action;Adventure;Casual;Free to Play;Massively Multiplayer;RPG,1,1,1,0,1,0,0,1,0,1,0,0,0,0,0,0
+1403.0,Dungeon Defenders,Action;Indie;RPG;Strategy,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+1411.0,Mad Max,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1422.0,Poly Bridge,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+1427.0,Craft The World,Indie;RPG;Simulation;Strategy,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0
+1430.0,To the Moon,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+1433.0,DOOM 3,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1436.0,100% Orange Juice,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+1437.0,Stronghold Crusader HD,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+1453.0,Road Redemption,Action;Adventure;Indie;Racing;Simulation,1,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0
+1460.0,FINAL FANTASY IV,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1463.0,Sniper Elite 3,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1475.0,Transformice,Free to Play;Indie;Massively Multiplayer,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+1476.0,Homeworld Remastered Collection,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+1484.0,The Jackbox Party Pack,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+1492.0,SpeedRunners,Action;Casual;Indie;Racing;Sports,1,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0
+1495.0,NEKOPARA Vol. 1,Sexual Content;Nudity;Casual;Indie,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0
+1539.0,AdVenture Capitalist,Casual;Free to Play;Indie,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+1595.0,FINAL FANTASY III,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1598.0,The Stanley Parable,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1603.0,Team Fortress Classic,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1608.0,Stronghold Kingdoms,Free to Play;Massively Multiplayer;Strategy,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+1617.0,Blood Bowl 2,Sports;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+1623.0,Torchlight II,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+1635.0,Ticket to Ride,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+1650.0,HuniePop,Indie;RPG;Simulation;Strategy,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0
+1657.0,Armello,Adventure;Indie;RPG;Strategy,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+1689.0,Duck Game,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1698.0,RUNNING WITH RIFLES,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1702.0,The Wolf Among Us,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1707.0,Five Nights at Freddy's 2,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1727.0,Age of Wonders III,RPG;Strategy,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+1758.0,The Room,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1772.0,Machinarium,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1773.0,The Talos Principle,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1783.0,Day of Defeat,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1788.0,Ricochet,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1804.0,FINAL FANTASY VII,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1809.0,Magicka 2,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1814.0,Spiral Knights,Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;RPG,1,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0
+1837.0,Star Conflict,Action;Free to Play;Massively Multiplayer;Simulation,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0
+1838.0,Assassin's Creed Freedom Cry,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1850.0,Alan Wake,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1873.0,EverQuest II,Free to Play;Massively Multiplayer;RPG,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+1908.0,Game Dev Tycoon,Casual;Indie;Simulation;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0
+1945.0,Five Nights at Freddy's 4,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+1987.0,Hacknet,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+2000.0,Painkiller Hell & Damnation,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002.0,War for the Overworld,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+2004.0,Worms Armageddon,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2009.0,The Binding of Isaac,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2019.0,Quake,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2025.0,LIMBO,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2033.0,Deathmatch Classic,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2036.0,THE KING OF FIGHTERS XIII STEAM EDITION,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2053.0,Zombie Army Trilogy,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2062.0,Peggle Deluxe,Casual,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2095.0,Verdun,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+2110.0,Galactic Civilizations III,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+2113.0,Magicka,Action;RPG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2126.0,Overgrowth,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2147.0,Champions Online,Free to Play;Massively Multiplayer;RPG,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+2161.0,Grim Fandango Remastered,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2196.0,Tales of Maj'Eyal,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2200.0,Rising World,Action;Adventure;Indie;RPG;Early Access,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+2225.0,Farming Simulator 15,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2227.0,Darksiders II Deathinitive Edition,Action;Adventure;RPG,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2252.0,Transistor,Action;Indie;RPG,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2265.0,Psychonauts,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2269.0,Supreme Commander 2,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2288.0,Stronghold HD,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+2290.0,DRAGON BALL XENOVERSE,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2293.0,Puzzle Pirates,Adventure;Casual;Free to Play;Massively Multiplayer;Strategy,0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,0
+2307.0,Screencheat,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2325.0,Fallout 3,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2342.0,Scribblenauts Unlimited,Adventure;Casual;Strategy,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2343.0,Five Nights at Freddy's 3,Action;Indie;Simulation,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+2356.0,Clicker Heroes,Adventure;Casual;Free to Play;Indie;RPG;Simulation;Strategy,0,1,1,0,1,0,1,0,0,1,0,0,1,0,1,0
+2385.0,Castle Story,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+2389.0,The Escapists,Action;Adventure;Indie;Simulation;Strategy,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+2399.0,Tales from the Borderlands,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2400.0,Supreme Commander,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2425.0,The Banner Saga,Indie;RPG;Strategy,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+2434.0,GUILTY GEAR XX ACCENT CORE PLUS R,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2440.0,Depth,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2462.0,Quake III Arena,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2497.0,Thief,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2502.0,Heroes of Might & Magic V,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2567.0,Max Payne,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2578.0,Jet Set Radio,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2583.0,CastleMiner Z,Violent;Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+2584.0,Killing Floor,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2592.0,System Shock 2,Action;RPG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2600.0,60 Seconds!,Adventure;Casual;Indie;Simulation;Strategy,0,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0
+2608.0,Hatred,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2620.0,RIFT,Free to Play;Massively Multiplayer;RPG,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+2627.0,Antichamber,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2636.0,Sid Meier's Pirates!,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2656.0,Vagante,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2657.0,Bastion,Action;Indie;RPG,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2662.0,Software Inc.,Indie;Simulation;Strategy;Early Access,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0
+2674.0,Crawl,Action;Indie;RPG,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2676.0,Insurgency,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+2713.0,Zuma Deluxe,Casual,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2763.0,Freedom Planet,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2765.0,Planetbase,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+2769.0,Just Cause 2,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2772.0,eden*,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2797.0,Saints Row 2,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2802.0,Risen,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2816.0,Risen 3 - Titan Lords,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2817.0,Chaos on Deponia,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2820.0,FATE,Action;Adventure;RPG,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2831.0,Stonehearth,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+2834.0,Mafia,Violent;Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2844.0,Risk of Rain,Action;Indie;RPG,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2875.0,Legend of Grimrock 2,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2881.0,Creativerse,Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;RPG;Simulation,1,1,1,0,1,0,1,1,0,1,0,0,1,0,0,0
+2889.0,DEFCON,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+2895.0,Her Story,Adventure;Indie;Simulation,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+2958.0,ibb & obb,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2971.0,The Darkness II,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2978.0,Hatoful Boyfriend,Casual;Indie;Simulation,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+3007.0,Tropico 5,RPG;Simulation;Strategy,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0
+3013.0,Fable - The Lost Chapters,Action;Adventure;RPG,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+3027.0,The Guild Gold Edition,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+3050.0,Surgeon Simulator,Action;Indie;Simulation,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+3052.0,Shadow Warrior,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3053.0,The Four Kings Casino and Slots,Casual;Free to Play;Massively Multiplayer;Simulation,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0
+3062.0,Overlord II,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+3072.0,Quake II,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3078.0,Mount & Blade,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+3086.0,Nuclear Throne,Action;Indie;RPG,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+3120.0,Sanctum 2,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+3124.0,Braid,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+3130.0,Hurtworld,Action;Adventure;Simulation;Early Access,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+3133.0,Castle of Illusion,Adventure;Casual,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3162.0,Return to Castle Wolfenstein,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3175.0,Orcs Must Die! 2,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+3177.0,The Beginner's Guide,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3185.0,Tropico 4,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+3217.0,Axiom Verge,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3227.0,Wolfenstein 3D,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3242.0,Serious Sam 2,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3262.0,TIS-100,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+3269.0,Torchlight,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+3272.0,Child of Light,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+3274.0,Party Hard,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+3278.0,The Vanishing of Ethan Carter,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3279.0,NEKOPARA Vol. 0,Sexual Content;Nudity;Casual;Indie,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0
+3293.0,APB Reloaded,Action;Free to Play;Massively Multiplayer,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+3309.0,ArcaniA,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+3311.0,Arx Fatalis,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+3327.0,Remember Me,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3342.0,Syberia,Adventure;Casual,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3348.0,RAGE,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3352.0,Worms Reloaded,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+3372.0,WAKFU,Adventure;Free to Play;Massively Multiplayer;RPG;Strategy,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0
+3387.0,Shadowrun Returns,Adventure;Indie;RPG;Strategy,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+3401.0,TowerFall Ascension,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3425.0,METAL SLUG 3,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3435.0,World of Goo,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3443.0,Hearts of Iron III,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+3447.0,Nidhogg,Action;Indie;Sports,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+3452.0,GemCraft - Chasing Shadows,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+3469.0,Worms Revolution,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+3471.0,Hylics,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+3486.0,Knights of Honor,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+3487.0,Duke Nukem Forever,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3503.0,Reassembly,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+3504.0,Worms Ultimate Mayhem,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+3553.0,Broken Sword 5 - the Serpent's Curse,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3569.0,Crazy Taxi,Action;Racing,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+3575.0,Deponia,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3576.0,Rogue Legacy,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+3591.0,NEO Scavenger,Indie;RPG;Strategy,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+3610.0,The Testament of Sherlock Holmes,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3642.0,MX vs. ATV Reflex,Racing,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+3655.0,FINAL FANTASY VIII,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+3685.0,FEZ,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3703.0,Secrets of Grindea,Action;Adventure;Indie;RPG;Early Access,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+3710.0,Sid Meier's Railroads!,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+3726.0,FlatOut,Racing,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+3757.0,THE KING OF FIGHTERS 2002 UNLIMITED MATCH,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3791.0,Ikaruga,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3798.0,Gaokao.Love.100Days,Adventure;Casual;Indie;Simulation,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+3801.0,THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3811.0,Penumbra Overture,Gore;Action;Adventure;Indie,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+3817.0,Sacred Gold,Action;RPG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+3825.0,Rock of Ages,Action;Indie;Racing;Strategy,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0
+3827.0,Botanicula,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+3828.0,Angels Fall First,Action;Simulation;Early Access,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+3829.0,Azure Striker Gunvolt,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3833.0,Gone Home,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3836.0,Orcs Must Die!,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+3837.0,Sacred 2 Gold,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+3847.0,Knights and Merchants,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+3850.0,The Guild II Renaissance,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+3853.0,Port Royale 3,Action;Simulation;Strategy,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+3858.0,"Invisible, Inc.",Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+3862.0,The Cave,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3872.0,Mini Ninjas,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3877.0,Door Kickers,Action;Indie;Simulation;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+3882.0,RPG MO,Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Early Access,0,1,0,1,1,0,1,1,0,1,0,0,0,0,0,0
+3886.0,Infinifactory,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+3937.0,GUILTY GEAR Xrd -SIGN-,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3939.0,Ship Simulator Extremes,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+3946.0,Distance,Action;Indie;Racing,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+3955.0,Xenonauts,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+3958.0,Doodle God,Casual;Indie;Simulation,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+3975.0,Goodbye Deponia,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3988.0,Broken Age,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+4004.0,"I Have No Mouth, and I Must Scream",Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4028.0,Zoombinis,Adventure;Casual,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+4040.0,Shantae and the Pirate's Curse,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+4055.0,Audiosurf 2,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4060.0,Brothers - A Tale of Two Sons,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4067.0,Natural Selection 2,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+4081.0,Imagine Earth,Indie;Simulation;Strategy;Early Access,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0
+4088.0,Total Annihilation,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+4089.0,SpaceChem,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+4094.0,Mount Your Friends,Indie;Simulation;Sports,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0
+4101.0,Card Hunter,Free to Play;RPG;Strategy,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0
+4109.0,Lucius,Violent;Gore;Action;Adventure;Indie,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+4112.0,Shelter 2,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+4135.0,Tomb Raider I,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4202.0,A Story About My Uncle,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+4210.0,Dreamfall Chapters,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4254.0,Ys Origin,Action;Adventure;RPG,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+4263.0,Iron Brigade,Action;Strategy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+4271.0,Rebel Galaxy,Action;Adventure;Indie;RPG;Simulation,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0
+4276.0,Contagion,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4284.0,Long Live The Queen,Indie;RPG;Simulation;Strategy,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0
+4305.0,Primordia,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4315.0,Lethal League,Action;Indie;Sports,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+4316.0,Cave Story+,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4344.0,Lara Croft and the Guardian of Light,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4362.0,The Magic Circle,Action;Adventure;Indie;Simulation;Strategy,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+4368.0,A Bird Story,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+4394.0,Tomb Raider II,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4417.0,Crimsonland,Action;Indie;RPG,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+4460.0,Age of Wonders,RPG;Strategy,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+4461.0,VVVVVV,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4483.0,How to Survive,Action;Adventure;RPG,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+4486.0,Way of the Samurai 4,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4487.0,Dig or Die,Action;Indie;RPG;Strategy,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+4505.0,The Incredible Adventures of Van Helsing,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+4516.0,King's Quest,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4583.0,Lakeview Cabin Collection,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4593.0,Sniper Elite,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4603.0,YOU DON'T KNOW JACK Vol. 2,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+4606.0,Super Hexagon,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4608.0,Influent,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+4616.0,X Rebirth,Action;Simulation,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+4622.0,Drakensang,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+4633.0,Never Alone (Kisima Ingitchuna),Action;Adventure;Casual;Indie,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+4660.0,Super Motherload,Adventure;Casual;Indie;RPG,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+4713.0,Car Mechanic Simulator 2015,Racing;Simulation,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+4730.0,"Cook, Serve, Delicious!",Action;Indie;Simulation;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+4751.0,Epic Battle Fantasy 4,Adventure;RPG,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+4756.0,Age of Wonders Shadow Magic,RPG;Strategy,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+4783.0,SuperPower 2 Steam Edition,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+4794.0,Chroma Squad,Indie;RPG;Strategy,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+4800.0,rFactor,Racing;Simulation;Sports,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+4809.0,Democracy 3,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+4827.0,The Age of Decadence,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+4828.0,Binary Domain,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4863.0,METAL SLUG X,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4871.0,Downwell,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4899.0,Absolute Drift,Action;Indie;Racing;Simulation;Sports,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0
+4904.0,Titan Souls,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4906.0,Sheltered,Indie;RPG;Strategy,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+4933.0,Split/Second,Action;Racing,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+4944.0,Sanitarium,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4950.0,F.E.A.R. 3,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4963.0,SAMURAI WARRIORS 4-II,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4980.0,Cubic Castles,Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer,1,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0
+4982.0,Majesty 2,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+5031.0,Farming Simulator 2011,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+5057.0,SteamWorld Dig,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5067.0,Samorost 2,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5086.0,Industry Giant 2,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+5091.0,Wizardry 8,Adventure;RPG,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+5098.0,Windward,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+5119.0,Dungeons 2,RPG;Simulation;Strategy,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0
+5125.0,SEGA Bass Fishing,Simulation;Sports,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+5138.0,Dungeons of Dredmor,Casual;Indie;RPG,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+5152.0,Aliens versus Predator Classic 2000,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5163.0,Gunpoint,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+5183.0,The Guild II,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+5310.0,The Cat Lady,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5319.0,The Inner World,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5322.0,Robocraft,Action;Free to Play;Indie;Massively Multiplayer;RPG;Simulation,1,0,0,0,1,0,1,1,0,1,0,0,1,0,0,0
+5333.0,Legend of Grimrock,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+5335.0,Homefront,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5336.0,Magicite,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+5344.0,The Night of the Rabbit,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5358.0,Obscure,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5361.0,Devil May Cry 4,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5412.0,La-Mulana,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5418.0,Toribash,Action;Free to Play;Indie;Strategy,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0
+5422.0,Rise of Flight United,Free to Play;Simulation,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+5432.0,Miscreated,Action;Adventure;Indie;Massively Multiplayer;RPG;Simulation;Strategy,1,1,0,0,0,0,1,1,0,1,0,0,1,0,1,0
+5436.0,ZOMBI,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5437.0,Roguelands,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+5448.0,Red Stone Online,Free to Play;Massively Multiplayer;RPG,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+5468.0,Apotheon,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+5496.0,Blitzkrieg Anthology,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+5521.0,Pinball Arcade,Free to Play;Simulation,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+5545.0,Bloody Trapland,Action;Adventure;Casual;Indie,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5551.0,aerofly RC 7,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+5552.0,Unreal Gold,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5573.0,Red Faction,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5577.0,Evil Genius,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+5583.0,Uplink,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+5606.0,Airline Tycoon Deluxe,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+5616.0,Zeno Clash,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5617.0,Anna's Quest,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5621.0,One Finger Death Punch,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5626.0,Guacamelee! Gold Edition,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5631.0,Shank 2,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5634.0,LYNE,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5641.0,Dungeon Siege,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+5663.0,Pool Nation,Casual;Indie;Simulation;Sports;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0
+5695.0,The Longest Journey,Action;Adventure;RPG,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+5697.0,Descent,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5699.0,Sakura Swim Club,Sexual Content;Nudity;Casual;Indie,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0
+5702.0,Dogfight 1942,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+5705.0,European Ship Simulator,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+5713.0,Euro Truck Simulator,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+5727.0,DeathSpank,Action;Indie;RPG,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+5755.0,Shank,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5772.0,Space Ace,Action;Adventure;Casual,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5794.0,Eastside Hockey Manager,Simulation;Sports,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+5821.0,Bullet Heaven 2,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5834.0,Satellite Reign,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+5838.0,Blackguards,Indie;RPG;Strategy,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+5845.0,Audition Online,Casual;Free to Play;Massively Multiplayer,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+5851.0,Choice of Robots,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+5869.0,The Guild II - Pirates of the European Seas,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+5897.0,Basement,Indie;Simulation;Strategy;Early Access,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0
+5917.0,Go! Go! Nippon! ~My First Trip to Japan~,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5920.0,Blitzkrieg 2 Anthology,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+5928.0,MDK,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5930.0,Sherlock Holmes and The Hound of The Baskervilles,Adventure;Casual,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5942.0,Thomas Was Alone,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5963.0,Toybox Turbos,Racing,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+5972.0,Shadow Warrior Classic Redux,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6000.0,Grow Home,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+6008.0,Enemy Front,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6009.0,McPixel,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6011.0,The Yawhg,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+6052.0,Environmental Station Alpha,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6078.0,Zeno Clash 2,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6079.0,Lords of the Realm II,RPG;Strategy,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+6141.0,Deathtrap,Action;Adventure;Indie;RPG;Strategy,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+6146.0,Jagged Alliance - Back in Action,RPG;Simulation;Strategy,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0
+6165.0,If My Heart Had Wings,Adventure;Casual;Simulation,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+6172.0,Dragon's Lair,Action;Adventure;Casual,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6174.0,Timberman,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+6187.0,Rampage Knights,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+6194.0,One Way Heroics,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+6206.0,Villagers and Heroes,Free to Play;Indie;Massively Multiplayer;RPG,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+6212.0,Zombie Shooter 2,Action;Indie;RPG,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+6215.0,Medieval Engineers,Action;Indie;Simulation;Strategy;Early Access,1,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0
+6241.0,Big Pharma,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+6263.0,Hexcells,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+6285.0,Build-A-Lot,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+6306.0,Damned,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6318.0,Crusaders of the Lost Idols,Casual;Free to Play;Indie,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+6328.0,Restaurant Empire II,Casual;Indie;Simulation;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0
+6342.0,Guilty Gear X2 #Reload,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6367.0,MASSIVE CHALICE,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+6378.0,Dangerous Waters,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6382.0,Out There Somewhere,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6384.0,The Mean Greens - Plastic Warfare,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6393.0,Descent 2,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6397.0,The Void,Nudity;Action;Adventure,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+6405.0,LUFTRAUSERS,Action;Indie;Simulation,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+6409.0,Wildlife Park 2,Casual;Indie;Simulation;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0
+6411.0,Sanctum,Action;Casual;Indie;Strategy,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+6418.0,Zombie Driver HD,Violent;Gore;Action;Indie;Racing,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1
+6426.0,Costume Quest,Adventure;Casual;RPG,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+6447.0,Gemini Rue,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6489.0,Broken Sword 4 - the Angel of Death,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6500.0,Contraption Maker,Casual;Indie;Simulation,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+6512.0,Race The Sun,Action;Indie;Racing,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+6514.0,Infested Planet,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+6517.0,Omerta - City of Gangsters,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+6546.0,Worms Clan Wars,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6563.0,Divine Divinity,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+6590.0,The Book of Unwritten Tales 2,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6610.0,Frozen Synapse,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+6617.0,Knock-knock,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6631.0,Black Ice,Action;Indie;RPG;Early Access,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+6647.0,Grey Goo,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6654.0,Reus,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+6659.0,Bionic Commando,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6672.0,Patrician III,RPG;Simulation;Strategy,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0
+6684.0,Ziggurat,Action;Indie;RPG,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+6703.0,Mountain,Casual;Indie;RPG;Simulation,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0
+6729.0,Faces of War,Action;Simulation;Strategy,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+6736.0,Hammerwatch,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+6740.0,Stacking,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6747.0,Osmos,Indie;Casual,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+6756.0,Cortex Command,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+6757.0,Neverending Nightmares,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6787.0,Beat Hazard,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+6814.0,Intrusion 2,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6843.0,RUSH,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+6849.0,Proteus,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+6852.0,Bus Driver,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+6857.0,Survivalist,Action;Adventure;Indie;RPG;Simulation;Strategy,1,1,0,0,0,0,1,0,0,1,0,0,1,0,1,0
+6871.0,Space Pirates and Zombies,Action;Indie;RPG;Strategy,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+6875.0,Imperium Romanum Gold Edition,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+6899.0,The Good Life,Casual;Indie;Simulation,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+6923.0,The Book of Unwritten Tales,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6948.0,Two Worlds Epic Edition,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+6969.0,Street Racing Syndicate,Racing,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+6983.0,Rake,Action;Adventure;Indie;Simulation,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+7042.0,Mad Games Tycoon,Casual;Indie;Simulation;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0
+7080.0,The Whispered World Special Edition,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7088.0,Gas Guzzlers Extreme,Action;Racing;Sports,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+7103.0,Plug & Play,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+7124.0,CRYPTARK,Action;Adventure;Indie;Strategy,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+7127.0,Murder Miners,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7147.0,Flashback,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7179.0,Toy Soldiers,Action;Casual;Simulation;Strategy,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0
+7191.0,Anomaly 2,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+7217.0,Detective Grimoire,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7224.0,Quantum Conundrum,Casual;Strategy,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+7241.0,Puzzle Agent,Adventure;Casual,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7251.0,BlazeRush,Action;Indie;Racing,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+7252.0,The Tiny Bang Story,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+7260.0,Desktop Dungeons,Adventure;Casual;Indie;RPG;Strategy,0,1,1,0,0,0,1,0,0,1,0,0,0,0,1,0
+7296.0,Rodina,Action;Indie;Early Access,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+7304.0,Hook,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+7318.0,Gray Matter,Adventure;Casual,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7322.0,Bridge Constructor Medieval,Casual;Indie;Simulation,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+7347.0,The Swapper,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7353.0,Guns of Icarus Online,Action;Adventure;Indie;Simulation,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+7355.0,Scania Truck Driving Simulator,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+7362.0,Crazy Machines,Casual;Strategy,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+7363.0,Crayon Physics Deluxe,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+7436.0,Front Mission Evolved,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7452.0,Rune Classic,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7457.0,STARWHAL,Action;Casual;Indie;Sports,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+7473.0,The Path,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7485.0,"I, Zombie",Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+7493.0,Eufloria HD,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+7512.0,MXGP - The Official Motocross Videogame,Racing;Simulation;Sports,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+7526.0,Revenge of the Titans,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+7541.0,Shelter,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7544.0,Submerged,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7548.0,The Silent Age,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+7574.0,Super Amazing Wagon Adventure,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7597.0,Delta Force 2,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7602.0,Anodyne,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7609.0,Blades of Time,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7623.0,Bridge Constructor,Casual;Indie;Simulation,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+7648.0,Carmageddon Max Pack,Action;Indie;Racing,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+7651.0,Cities in Motion,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7656.0,From Dust,Adventure;Simulation,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7660.0,Worms Crazy Golf,Sports;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+7672.0,Car Mechanic Simulator 2014,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7687.0,Over 9000 Zombies!,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7701.0,Original War,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+7731.0,MX vs. ATV Supercross Encore,Racing;Simulation;Sports,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+7761.0,Dex,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+7765.0,The Fall,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7780.0,Alan Wake's American Nightmare,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7790.0,Choice Chamber,Action;Indie;Massively Multiplayer,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+7810.0,Sakura Clicker,Sexual Content;Nudity;Casual;Free to Play;Indie,0,0,1,0,1,0,1,0,1,0,0,1,0,0,0,0
+7813.0,Executive Assault,Action;Strategy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7828.0,Of Orcs And Men,Action;RPG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+7830.0,Papo & Yo,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7842.0,Year Walk,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7854.0,Contrast,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7868.0,King of Dragon Pass,RPG;Strategy,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+7879.0,Seven Kingdoms 2 HD,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+7884.0,Worms,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7902.0,Joe Danger,Action;Casual;Indie;Racing,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0
+7916.0,Shatter,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7931.0,Sid Meier's Starships,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7953.0,Jets'n'Guns Gold,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7955.0,Blackwell Convergence,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7996.0,The Basement Collection,Adventure;Indie;Strategy,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+8012.0,Gods Will Be Watching,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8019.0,Cultures - Northland,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+8023.0,They Bleed Pixels,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8035.0,The Witcher Adventure Game,Adventure;Strategy,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+8093.0,Broken Sword 3 - the Sleeping Dragon,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8126.0,Renegade Ops,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8145.0,Warhammer Quest,RPG;Strategy,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+8153.0,Sherlock Holmes versus Jack the Ripper,Adventure;RPG,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+8156.0,The Impossible Game,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8157.0,Fairy Fencer F,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+8166.0,Shadowgrounds,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8175.0,Divekick,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8193.0,The Bridge,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+8201.0,Wildlife Park 3,Casual;Indie;Simulation;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0
+8284.0,Sokobond,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8299.0,Battle Academy,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+8313.0,Hidden Object Bundle 4 in 1,Casual,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+8334.0,Gish,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8340.0,Angry Video Game Nerd Adventures,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8382.0,Puzzle Agent 2,Adventure;Casual,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+8384.0,Post Mortem,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8391.0,Super House of Dead Ninjas,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8411.0,Angvik,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8413.0,Star Ruler 2,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+8419.0,Gratuitous Space Battles,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+8422.0,Earth 2150 Trilogy,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+8435.0,Joe Dever's Lone Wolf HD Remastered,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+8436.0,Evoland,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+8458.0,Heavy Bullets,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8484.0,Sakura Angels,Sexual Content;Nudity;Casual;Indie,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0
+8487.0,DeadCore,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8492.0,Lost Horizon,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8511.0,Nation Red,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8512.0,Dreaming Sarah,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+8515.0,The Maw,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8525.0,You Must Build A Boat,Action;Casual;Indie;RPG;Strategy,1,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0
+8531.0,WORLD END ECONOMiCA episode.01,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8540.0,Sunrider Academy,Casual;Indie;Simulation,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+8559.0,Hack 'n' Slash,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+8560.0,Insanely Twisted Shadow Planet,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8564.0,Rogue Trooper,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8579.0,Starpoint Gemini 2,Action;RPG;Simulation,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+8590.0,No Time To Explain Remastered,Action;Adventure;Casual;Indie,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+8605.0,Shadowgate,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8710.0,Avernum 6,RPG;Indie,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+8727.0,Full Spectrum Warrior,Action;Strategy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+8735.0,Emergency 2014,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+8736.0,Space Empires IV Deluxe,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+8751.0,Imperial Glory,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+8755.0,OlliOlli,Indie;Sports,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+8757.0,Holy Potatoes! A Weapon Shop?!,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+8764.0,HOARD,Action;Casual;Indie;Strategy,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+8767.0,Enclave,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+8785.0,Circuits,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+8788.0,Take On Mars,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+8830.0,Electronic Super Joy,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8846.0,SpellForce 2 - Demons of the Past,RPG;Strategy,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+8861.0,Warlock - Master of the Arcane,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+8895.0,Reign Of Kings,Action;Adventure;Indie;RPG;Simulation,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0
+8904.0,Port Royale 2,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+8917.0,HeXen II,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8947.0,Secret Ponchos,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8958.0,Skyborn,Casual;RPG,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+8975.0,Foul Play,Action;Adventure;Casual;Indie,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+8982.0,Symphony,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+9004.0,Soul Gambler,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+9008.0,Shadowgrounds Survivor,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9035.0,Disciples Sacred Lands Gold,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+9046.0,Demigod,Nudity;Violent;Action;RPG;Strategy,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1
+9048.0,Lunar Flight,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+9088.0,CastleStorm,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+9090.0,Sacred Citadel,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9104.0,Platypus,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9140.0,Cities in Motion 2,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+9144.0,"Sir, You Are Being Hunted",Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9174.0,Fritz Chess 14,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+9177.0,NOT A HERO,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9195.0,Karate Master 2 Knock Down Blow,Action;Indie;RPG;Sports,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+9212.0,Black Mirror,Violent;Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9221.0,Blockland,Action;Indie;Simulation,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+9240.0,Ironcast,Indie;RPG;Strategy,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+9285.0,Viridi,Casual;Free to Play;Indie;Simulation,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0
+9315.0,American Conquest,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+9328.0,Deadfall Adventures,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9345.0,Super Chibi Knight,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+9354.0,Robot Roller-Derby Disco Dodgeball,Action;Indie;Sports,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+9424.0,Eryi's Action,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9426.0,Super Panda Adventures,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9429.0,Savage Lands,Action;Adventure;Indie;RPG;Simulation;Early Access,1,1,0,1,0,0,1,0,0,1,0,0,1,0,0,0
+9457.0,Triple Town,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+9464.0,Vanguard Princess,Sexual Content;Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+9493.0,Unholy Heights,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+9522.0,New Star Soccer 5,Indie;Simulation;Sports,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0
+9532.0,Skulls of the Shogun,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+9545.0,Solar 2,Indie;Casual,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+9546.0,Civil War II,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+9561.0,Labyronia RPG,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+9562.0,The Baconing,Action;Adventure;RPG,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+9572.0,I Am Alive,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9602.0,SkyDrift,Indie;Racing,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+9631.0,Breach & Clear,Action;RPG;Simulation;Strategy,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0
+9665.0,Convoy,Action;Adventure;Indie;RPG;Strategy,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+9666.0,Hero of the Kingdom,Adventure;Casual;Indie;RPG,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+9678.0,Bus-Simulator 2012,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+9695.0,Volgarr the Viking,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9706.0,Star Wolves,RPG;Strategy,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+9747.0,Lovely Planet,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9754.0,Dark Echo,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9789.0,Knightmare Tower,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+9817.0,Death Rally,Action;Racing,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+9822.0,The Flame in the Flood,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9824.0,Tower of Guns,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9855.0,Close Combat - Gateway to Caen,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+9865.0,DLC Quest,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9907.0,Salt,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+9909.0,Just Cause,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9942.0,Euro Fishing,Simulation;Sports,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+9951.0,Etherlords II,Adventure;Indie;RPG;Strategy,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+9952.0,Post Apocalyptic Mayhem,Action;Racing,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+9994.0,Steredenn,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9996.0,BIT.TRIP RUNNER,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10017.0,KnightShift,RPG;Strategy,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+10031.0,Realms of Arkania 3 - Shadows over Riva Classic,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+10065.0,Dino D-Day,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10101.0,Jolly Rover,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+10109.0,Hard Truck Apocalypse / Ex Machina,Action;Racing;RPG,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+10144.0,RACE 07,Racing,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+10181.0,bit Dungeon II,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+10198.0,Teddy Floppy Ear - Mountain Adventure,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+10202.0,Ittle Dew,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10209.0,Thunder Wolves,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+10222.0,12 Labours of Hercules,Casual;Strategy,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+10257.0,Rise of the Triad,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10300.0,The Black Watchmen,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+10307.0,Runestone Keeper,Casual;Indie;RPG;Strategy,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0
+10328.0,Gunman Clive,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10361.0,Fingered,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+10372.0,StarMade,Action;Adventure;Indie;RPG;Simulation;Strategy;Early Access,1,1,0,1,0,0,1,0,0,1,0,0,1,0,1,0
+10382.0,Bardbarian,Action;Adventure;Casual;Indie;RPG;Strategy,1,1,1,0,0,0,1,0,0,1,0,0,0,0,1,0
+10385.0,Phoenix Force,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10409.0,Don Bradman Cricket 14,Indie;Simulation;Sports,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0
+10421.0,Splice,Indie;Casual,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+10428.0,Receiver,Action;Indie;Simulation,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+10442.0,Speedball 2 HD,Action;Indie;Sports,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+10487.0,Hello Kitty and Sanrio Friends Racing,Casual;Racing;Sports,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+10492.0,Gun Metal,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10509.0,The Golf Club,Simulation;Sports,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+10555.0,Ultratron,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10557.0,Empire TV Tycoon,Casual;Indie;Simulation;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0
+10566.0,YOU DON'T KNOW JACK Vol. 1 XL,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+10567.0,Urban Trial Freestyle,Action;Racing;Simulation;Sports,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+10603.0,Aquaria,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10609.0,Comanche 4,Action;Simulation,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+10659.0,Tiny Troopers,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+10680.0,Full Mojo Rampage,Action;Indie;RPG,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+10703.0,Boring Man - Online Tactical Stickman Combat,Action;Free to Play;Indie;Massively Multiplayer,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+10724.0,Praetorians,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+10730.0,A New Beginning - Final Cut,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10736.0,Deadlight,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10757.0,Shark Attack Deathmatch 2,Action;Indie;Early Access,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+10763.0,Stealth Bastard Deluxe,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10788.0,Farm for your Life,Casual;Indie;Simulation;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0
+10792.0,Closure,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10797.0,Wings of Prey,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+10804.0,Boson X,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10813.0,Pox Nora,Free to Play;RPG;Strategy,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0
+10849.0,Eldevin,Casual;Free to Play;Indie;Massively Multiplayer;RPG,0,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0
+10861.0,Super Time Force Ultra,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10910.0,Windosill,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+10911.0,Choice of the Deathless,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+10947.0,Mitsurugi Kamui Hikae,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10959.0,Paper Sorcerer,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+10969.0,Particula,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+10972.0,Avernum 4,RPG;Indie,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+11011.0,Dead Pixels,Action;Indie;RPG,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+11030.0,Cities XL Platinum,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+11035.0,Super 3-D Noah's Ark,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11059.0,Lucius II,Action;Adventure;Indie;Simulation,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+11070.0,Toki Tori,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+11077.0,Little Racers STREET,Casual;Indie;Racing,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0
+11101.0,Serious Sam Double D XXL,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11112.0,Mushroom 11,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11129.0,AquaNox,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11130.0,Multiwinia,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11202.0,Rise of the Argonauts,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+11218.0,The Treasures of Montezuma 4,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+11244.0,Guilty Gear Isuka,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11254.0,Alien Rage - Unlimited,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11279.0,Outcast 1.1,Action;Adventure;RPG,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+11297.0,Dead Bits,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+11306.0,Fate of the World,Casual;Indie;Simulation;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0
+11312.0,Primal Carnage,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11365.0,Toki Tori 2+,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+11367.0,Droid Assault,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11377.0,Card City Nights,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+11419.0,hocus,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+11438.0,Eradicator,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11465.0,ShootMania Storm,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11467.0,Panzar,Action;Free to Play;Massively Multiplayer;RPG,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+11492.0,Red Faction II,Action;Strategy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+11504.0,Darkstone,Action;RPG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+11513.0,FOTONICA,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11516.0,Dungeon Souls,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+11517.0,King Arthur's Gold,Action;Free to Play;Indie,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+11555.0,Cards and Castles,Free to Play;Indie;Massively Multiplayer;Strategy,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0
+11557.0,Monday Night Combat,Action;Strategy;Indie;Sports,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0
+11566.0,Train Fever,Casual;Indie;Simulation,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+11569.0,Hollywood Visionary,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+11577.0,Bound By Flame,Action;RPG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+11580.0,Lumino City,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+11582.0,Mighty Gunvolt,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11595.0,Armikrog,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11616.0,World of Zoo,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+11617.0,Penny Arcade's On the Rain-Slick Precipice of Darkness 3,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+11626.0,Strike Suit Zero,Action;Indie;Simulation,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+11641.0,Depths of Peril,Indie;RPG;Strategy,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+11645.0,Pineview Drive,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11668.0,Earth 2160,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+11685.0,Final Exam,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11720.0,Wings! Remastered Edition,Action;Simulation,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+11729.0,Spooky Cats,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+11781.0,Crazy Machines 2,Casual;Strategy,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+11806.0,Journey of a Roach,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11808.0,Swords and Soldiers HD,Action;Casual;Indie;Strategy,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+11847.0,Maelstrom,Action;Indie;Massively Multiplayer;Simulation;Strategy;Early Access,1,0,0,1,0,0,1,1,0,0,0,0,1,0,1,0
+11848.0,Morphopolis,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+11894.0,Freedom Force,RPG;Strategy,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+11897.0,The Lost Crown,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11905.0,oO,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11980.0,Qvadriga,Racing;Simulation;Sports;Strategy,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0
+11983.0,Bloody Good Time,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11985.0,KAMI,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+11997.0,Mortal Online,Action;Free to Play;Indie;Massively Multiplayer;RPG,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+12036.0,The Bug Butcher,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12073.0,Volume,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12080.0,Rogue's Tale,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+12086.0,Halfway,Action;Indie;RPG;Strategy,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+12092.0,Space Run,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+12095.0,Strike Suit Infinity,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12096.0,Narcissu 1st & 2nd,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12144.0,Fairy Bloom Freesia,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12152.0,Chip's Challenge 2,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12157.0,FRACT OSC,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12221.0,New kind of adventure,Adventure;Indie;RPG;Early Access,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+12241.0,Nihilumbra,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+12245.0,Capsized,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12280.0,PARTICLE MACE,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12283.0,Squishy the Suicidal Pig,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12330.0,Z,Action;Strategy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+12343.0,Road Not Taken,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12349.0,Back to Bed,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+12361.0,Royal Defense,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+12363.0,Ichi,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+12382.0,Teslagrad,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12386.0,RONIN,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12392.0,EDGE,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12404.0,Amazing Adventures Around the World,Casual,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+12439.0,Finding Teddy,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12482.0,Sol Survivor,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+12530.0,Crowntakers,Indie;RPG;Strategy,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+12557.0,Supreme Ruler 2020 Gold,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+12573.0,East India Company,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+12575.0,Yesterday,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12600.0,Legends of Eisenwald,Adventure;Indie;RPG;Strategy,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+12720.0,Super Sanctum TD,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+12728.0,Bleed,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12732.0,10 Second Ninja,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12741.0,140,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12743.0,Randal's Monday,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12761.0,Xpand Rally Xtreme,Racing,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+12795.0,Jamestown,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12800.0,Waveform,Adventure;Indie;Strategy,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+12803.0,March of the Eagles,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+12843.0,Critter Crunch,Action;Indie;Casual,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+12847.0,The Next BIG Thing,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12870.0,Escape Goat,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12920.0,Nuclear Dawn,Action;Strategy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+12933.0,Last Word,Adventure;Casual;Indie;RPG,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+12952.0,Waking Mars,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12989.0,rymdkapsel,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+12994.0,Glowfish,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+13051.0,Still Life,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13060.0,Overcast - Walden and the Werewolf,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13061.0,Avernum 5,RPG;Indie,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+13075.0,Reveal The Deep,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+13106.0,Dustoff Heli Rescue,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13112.0,Flight Control HD,Action;Casual,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+13122.0,Aqua Kitty - Milk Mine Defender,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13124.0,SimpleRockets,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+13148.0,METAL SLUG DEFENSE,Action;Free to Play,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+13151.0,Escape Rosecliff Island,Casual,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+13159.0,War of the Human Tanks,Adventure;Indie;Strategy,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+13168.0,Greed Corp,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+13217.0,Remnants Of Isolation,Casual;Indie;RPG,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+13218.0,Khet 2.0,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+13220.0,Heroes of a Broken Land,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+13235.0,Eador. Masters of the Broken World,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+13278.0,Waves,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+13301.0,Captain Forever Remix,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13369.0,F.E.A.R.,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13396.0,AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome,Action;Indie;Sports,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+13397.0,Reverse Crawl,Indie;RPG;Strategy,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+13412.0,Hospital Tycoon,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+13445.0,The Moon Sliver,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13464.0,Vessel,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+13470.0,Syder Arcade,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13498.0,Darwinia,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+13507.0,Hotel Giant 2,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+13525.0,Nimbus,Indie;Racing,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+13546.0,English Country Tune,Indie;Casual,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+13548.0,Tetrobot and Co.,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+13558.0,The Misadventures of P.B. Winterbottom,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13560.0,Sakura Spirit,Sexual Content;Nudity;Indie,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0
+13567.0,Cloudbuilt,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13594.0,Blackguards 2,Adventure;Indie;RPG;Strategy,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+13613.0,Tower Wars,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+13645.0,Interstellar Marines,Action;Indie;RPG;Simulation;Early Access,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0
+13647.0,Realms of the Haunting,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13656.0,Freddi Fish and Luther's Maze Madness,Adventure;Casual,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+13660.0,Adventures of Shuggy,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13677.0,Eets Munchies,Casual;Indie;Simulation;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0
+13702.0,Of Guards And Thieves,Action;Casual;Free to Play;Indie;Massively Multiplayer;Early Access,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0
+13714.0,No More Room in Hell,Action;Free to Play;Indie,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+13757.0,Gnomoria,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+13796.0,Cinders,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+13835.0,Teddy Floppy Ear - The Race,Indie;Racing;Simulation;Sports,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0
+13848.0,Spermination,Action;Indie;Racing,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+13855.0,Miasmata,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13857.0,The Entente Gold,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+13882.0,Drunken Robot Pornography,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13892.0,Psycho Starship Rampage,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13915.0,Monster Bash,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13917.0,Reaper - Tale of a Pale Swordsman,Action;Indie;RPG,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+13926.0,Runers,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+13954.0,Starscape,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+13965.0,Fortix,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13986.0,Rogue Warrior,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14010.0,Bob Was Hungry,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14042.0,Painkiller Overdose,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14094.0,Auditorium,Indie;Casual,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+14127.0,Element4l,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14146.0,Beyond Divinity,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+14177.0,NightSky,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+14187.0,Star Ruler,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+14217.0,Shoppe Keep,Adventure;Indie;RPG;Simulation,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0
+14220.0,Gold Rush! Classic,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14237.0,Hate Plus,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14281.0,Numba Deluxe,Casual,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+14282.0,StarDrive,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+14298.0,Castle In The Darkness,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+14309.0,Korwin The Game,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14318.0,The Stalin Subway,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14384.0,Enemy Mind,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14490.0,Millie,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+14529.0,Dead Effect,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14565.0,Zen Bound 2,Indie;Casual,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+14566.0,DARK,Action;RPG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+14571.0,Buzz Aldrin's Space Program Manager,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+14576.0,INK,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14581.0,White Noise Online,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+14593.0,Ballad of Solar,Adventure;Casual;Strategy,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+14606.0,Major Mayhem,Action;Adventure;Casual;Indie,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+14611.0,Potatoman Seeks the Troof,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14641.0,Mr. Robot,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+14644.0,Velocibox,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14695.0,Freaking Meatbags,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+14697.0,Chime,Casual,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+14707.0,Victory At Sea,Action;Simulation;Strategy,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+14715.0,Zero Gear,Action;Indie;Racing;Sports,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+14743.0,The Last Federation,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+14785.0,Aeon Command,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+14800.0,The Incredible Adventures of Van Helsing II,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+14806.0,The Chaos Engine,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14822.0,Seduce Me the Otome,Casual;Simulation,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+14863.0,Bionic Dues,Indie;RPG;Strategy,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+14891.0,Silverfall,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+14930.0,Faerie Solitaire,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+14997.0,Gravity Ghost,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15019.0,Unium,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+15044.0,BloodLust Shadowhunter,Action;Indie;RPG,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+15053.0,Collapse,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15054.0,Our Darker Purpose,Action;Indie;RPG,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+15066.0,The 39 Steps,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+15087.0,Cradle,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15090.0,Cargo Commander,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15180.0,Not The Robots,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+15227.0,Pretty Girls Mahjong Solitaire,Casual,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+15254.0,Insane 2,Racing,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+15417.0,The Floor is Jelly,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15464.0,BIT.TRIP BEAT,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+15475.0,Abyss Odyssey,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15581.0,Velvet Assassin,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15586.0,Sengoku,RPG;Simulation;Strategy,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0
+15611.0,Panzer Tactics HD,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+15617.0,Boid,Action;Casual;Free to Play;Indie;Strategy,1,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0
+15620.0,iBomber Attack,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15625.0,BAD END,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15651.0,City Life 2008,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+15684.0,To End All Wars,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+15690.0,Star Crusade CCG,Casual;Free to Play;Massively Multiplayer;Strategy,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0
+15695.0,Battle Group 2,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+15716.0,CreaVures,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15741.0,MURI,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15743.0,Freedom Fall,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15747.0,AaAaAA!!! - A Reckless Disregard for Gravity,Action;Indie;Sports,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+15773.0,Bloodline Champions,Action;Free to Play;Massively Multiplayer,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+15781.0,Super Puzzle Platformer Deluxe,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+15810.0,Legendary,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15827.0,Tiny Brains,Action;Adventure;Casual;Indie,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+15828.0,Fearless Fantasy,Action;Adventure;Casual;Indie;RPG,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+15844.0,Just Get Through,Action;Adventure;Casual;Indie;Racing,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0
+15855.0,Voices from the Sea,Adventure;Casual;Free to Play;Indie,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+15864.0,Dracula's Legacy,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+15888.0,Driftmoon,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+15891.0,The Marvellous Miss Take,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+15900.0,Great Permutator,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+15930.0,Starseed Pilgrim,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15983.0,Eleusis,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16034.0,Snuggle Truck,Casual;Indie;Racing,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0
+16088.0,DinerTown Tycoon,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+16114.0,Else Heart.Break(),Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+16153.0,Parkan 2,Action;Adventure;Simulation,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+16170.0,Cosmic DJ,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+16183.0,Wildlife Park 2 - Marine World,Casual;Indie;Simulation;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0
+16188.0,ROCKETSROCKETSROCKETS,Action;Casual;Indie;Sports;Strategy,1,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0
+16212.0,Daylight,Action;Adventure;Casual;Indie,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+16231.0,Mechanic Escape,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16266.0,Penny Arcade's On the Rain-Slick Precipice of Darkness 4,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+16284.0,X-Blades,Nudity;Violent;Action;Adventure;RPG,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1
+16327.0,Puzzle Dimension,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+16433.0,Trucks & Trailers,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+16436.0,Unmechanical,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+16477.0,The Ball,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16497.0,Evochron Mercenary,Action;Indie;Simulation,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+16518.0,International Snooker,Casual;Sports,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+16556.0,Clergy Splode,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16559.0,The Samaritan Paradox,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16582.0,iBomber Defense Pacific,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+16605.0,SPACECOM,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+16619.0,iBomber Defense,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+16624.0,The Incredible Adventures of Van Helsing III,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+16663.0,Krater,Action;Adventure;Indie;RPG;Strategy,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+16665.0,Fortix 2,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+16680.0,3 Stars of Destiny,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+16681.0,King Arthur - The Role-playing Wargame,RPG;Strategy,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+16713.0,Fair Strike,Action;Simulation,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+16723.0,The Adventures of Tree,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+16747.0,Dwarfs!?,Strategy;Indie;Casual,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+16781.0,Super Hipster Lumberjack,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16784.0,Simply Chess,Casual;Free to Play;Indie;Strategy,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0
+16846.0,Sweet Lily Dreams,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+16909.0,Memories of a Vagabond,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+16929.0,Without Within,Free to Play;Indie,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+16938.0,Puzzle Bots,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16988.0,Colonial Conquest,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+17023.0,David.,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+17079.0,Take On Helicopters,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+17097.0,Offspring Fling!,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+17100.0,Planet of the Eyes,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+17110.0,Anomaly Korea,Action;Strategy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+17115.0,Project AURA,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+17122.0,Space Empires V,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+17198.0,Gateways,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+17214.0,Anomaly Warzone Earth Mobile Campaign,Action;Strategy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+17238.0,Orbital Gear,Action;Indie;Simulation,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+17295.0,Echo of the Wilds,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+17306.0,Another Perspective,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+17311.0,Scoregasm,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+17339.0,Carpe Diem,Casual;Free to Play;Indie,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+17425.0,Ironclad Tactics,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+17450.0,Season Match 3 - Curse of the Witch Crow,Adventure;Casual,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+17456.0,Emily is Away,Adventure;Casual;Free to Play;Indie;Simulation,0,1,1,0,1,0,1,0,0,0,0,0,1,0,0,0
+17480.0,Nevermind,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+17488.0,Gomo,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+17532.0,Parcel,Adventure;Indie;Strategy,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+17632.0,Always Sometimes Monsters,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+17659.0,Bard's Gold,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+17665.0,Wasteland 1 - The Original Classic,Adventure;Indie;RPG;Strategy,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+17715.0,Weapons Genius,Action;Casual;Indie;Simulation,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+17719.0,Mr. Bree+,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+17726.0,Rescue Team 5,Adventure;Casual;Strategy,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+17764.0,X-note,Adventure;Casual;Indie;Simulation,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+17816.0,BEEP,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+17846.0,Fieldrunners,Strategy;Indie;Casual,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+17901.0,Max Gentlemen,Casual;Free to Play;Indie,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+17930.0,Pacific Storm,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+17975.0,Cubot,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+18098.0,Missing Translation,Adventure;Casual;Free to Play;Indie,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+18162.0,Cosmophony,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+18166.0,Elven Legacy,RPG;Strategy,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+18223.0,And Yet It Moves,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+18230.0,Wizorb,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+18245.0,Get Off My Lawn!,Casual;Free to Play;Indie,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+18388.0,Eidolon,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+18399.0,Kairo,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+18480.0,Ether One,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+18487.0,Chaser,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18538.0,Call of Tomsk-7,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+18541.0,Escape Machines,Action;Adventure;Indie;RPG;Strategy;Early Access,1,1,0,1,0,0,1,0,0,1,0,0,0,0,1,0
+18551.0,Camera Obscura,Action;Adventure;Indie;Strategy,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+18650.0,Mutant Mudds Deluxe,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+18663.0,Pongo,Action;Adventure;Casual;Indie;Strategy,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+18784.0,Floating Point,Casual;Free to Play;Indie,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+18786.0,The Expendabros,Action;Adventure;Free to Play;Indie,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+18787.0,Everlasting Summer,Adventure;Casual;Free to Play;Indie,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+18789.0,Eternal Senia,Action;Free to Play;Indie;RPG,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+18816.0,Ubersoldier II,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19008.0,Overture,Action;Adventure;Casual;Indie;RPG;Strategy,1,1,1,0,0,0,1,0,0,1,0,0,0,0,1,0
+19143.0,The Secret of Tremendous Corporation,Adventure;Casual;Free to Play;Indie,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+19160.0,Painkiller Redemption,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19283.0,Freight Tycoon Inc.,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+19297.0,Puzzler World 2,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+19324.0,Stardust Vanguards,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19416.0,Battlepaths,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+19504.0,The Swindle,Action;Indie;RPG,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+19554.0,A-Train 8,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+19595.0,Memento Mori 2,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19687.0,Tap Tap Infinity,Action;Casual;Free to Play;Indie;RPG,1,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0
+19760.0,99 Spirits,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+19798.0,OTTTD,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+19817.0,Universal Combat CE,Action;Indie;Simulation;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+19957.0,Maia,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+19982.0,Coffin Dodgers,Action;Casual;Indie;Racing,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0
+20053.0,Street Fighter X Tekken,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20083.0,"War, the Game",Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+20149.0,Trapped Dead,Action;Strategy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+20249.0,Survivor Squad,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+20266.0,WARMODE,Action;Free to Play;Early Access,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+20295.0,Wildlife Park 2 - Dino World,Casual;Indie;Simulation;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0
+20351.0,Traps N' Gemstones,Action;Adventure;Casual;Indie,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+20388.0,Blockstorm,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+20399.0,Hamilton's Great Adventure,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+20415.0,The Wonderful End of the World,Indie;Casual,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+20429.0,The Culling Of The Cows,Action;Casual;Indie;Strategy,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+20477.0,Light of Altair,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+20479.0,Shadow Puppeteer,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+20529.0,A Golden Wake,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+20550.0,BRINK,Action;Free to Play,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+20635.0,Firefighters 2014,Action;Simulation,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+20639.0,0RBITALIS,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+20723.0,BLOCKADE 3D,Action;Free to Play;Early Access,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+20758.0,An Assassin in Orlandes,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+20762.0,World of Mixed Martial Arts 3,Simulation;Sports,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+20784.0,Deadly 30,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+20793.0,Clash of Puppets,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+20826.0,StarDrive 2,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+20849.0,Crusader Kings Complete,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+20935.0,Clutch,Action;Racing,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+21020.0,Retention,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+21034.0,Volt,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21052.0,Return to Mysterious Island 2,Adventure;Casual,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+21150.0,Echelon,Action;Simulation,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+21181.0,Impire,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+21241.0,Mystery of Neuschwanstein,Adventure;Casual,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+21303.0,Monster Loves You!,Adventure;Casual;Indie;RPG;Simulation,0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0
+21337.0,Block N Load,Action;Free to Play;Massively Multiplayer;Strategy,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+21350.0,Retrovirus,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21359.0,Beware Planet Earth,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+21367.0,RECYCLE,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+21405.0,Demonicon,Action;Adventure;RPG,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+21532.0,Pride of Nations,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+21596.0,Toast Time,Action;Casual;Indie;Strategy,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+21648.0,Jack Lumber,Action;Casual;Indie;Strategy,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+21649.0,3089 -- Futuristic Action RPG,Action;Indie;RPG,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+21701.0,Actual Sunlight,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21709.0,Make it indie!,Adventure;Indie;Simulation,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+21731.0,Gunscape,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21738.0,Dodge,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21754.0,MacGuffin's Curse,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+21785.0,Two Worlds II Castle Defense,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+22062.0,Thirty Flights of Loving,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+22083.0,Rag Doll Kung Fu,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22198.0,KickBeat Steam Edition,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22200.0,Strategic War in Europe,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+22340.0,Quest of Dungeons,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+22501.0,Horizon Shift,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22532.0,Fight The Dragon,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+22568.0,Millennium - A New Hope,Adventure;Casual;Indie;RPG,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+22609.0,Tap Heroes,Action;Adventure;Casual;Indie;RPG,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+22718.0,Saturday Morning RPG,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+22738.0,Breezeblox,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+22780.0,Vertiginous Golf,Indie;Sports,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+22798.0,Rulers of Nations,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+22864.0,Incoming Forces,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22975.0,Constant C,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+22977.0,Bermuda,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+23009.0,Vertical Drop Heroes HD,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+23016.0,Diamond Dan,Action;Adventure;Casual;Indie,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+23040.0,Teddy Floppy Ear - Kayaking,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+23090.0,The Detail,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+23102.0,Vintage Year,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+23124.0,Puddle,Action;Indie;Simulation,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+23267.0,VoidExpanse,Action;Indie;RPG;Simulation;Strategy,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0
+23308.0,Memoir '44 Online,Casual;Simulation;Strategy,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0
+23319.0,Monochroma,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+23410.0,Grand Class Melee 2,Action;Indie;RPG;Strategy,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+23422.0,Ancient Space,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+23430.0,Invisible Apartment,Adventure;Free to Play;Indie,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+23448.0,Sinister City,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+23454.0,Anna - Extended Edition,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+23580.0,Spoiler Alert,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+23632.0,Quarries of Scred,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+23673.0,Revolution Ace,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+23722.0,Blood Knights,Action;RPG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+23750.0,Home,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+23801.0,Gravity Badgers,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+23804.0,A Virus Named TOM,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+23852.0,Gear Up,Action;Free to Play;Indie,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+23881.0,Reprisal Universe,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+24045.0,The Old Tree,Adventure;Casual;Free to Play;Indie,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+24049.0,SC2VN - The eSports Visual Novel,Adventure;Casual;Free to Play;Indie;RPG;Simulation,0,1,1,0,1,0,1,0,0,1,0,0,1,0,0,0
+24073.0,Dynamite Jack,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24119.0,The Cat and the Coup,Free to Play;Indie,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+24125.0,Mainland,Adventure;Free to Play;Indie,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+24126.0,how do you Do It?,Free to Play;Indie,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+24400.0,Fork Parker's Holiday Profit Hike,Action;Adventure;Free to Play;Indie,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+24404.0,Subspace Continuum,Action;Casual;Free to Play;Massively Multiplayer,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+24405.0,Codename CURE,Action;Free to Play,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+24406.0,Port of Call,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24409.0,Ultimate Tic-Tac-Toe,Casual;Free to Play,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+24410.0,404Sight,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24414.0,Teeworlds,Action;Free to Play;Indie,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+24415.0,Time Clickers,Action;Casual;Free to Play;Indie,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+24417.0,the static speaks my name,Adventure;Free to Play;Indie;RPG,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+24433.0,NaissanceE,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24434.0,Yet Another Zombie Defense,Action;Casual;Indie;Strategy,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+24437.0,You Have to Win the Game,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24441.0,Sigils of Elohim,Casual;Free to Play;Indie;Strategy,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0
+24442.0,Death Skid Marks,Action;Indie;RPG,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+24456.0,Altitude,Action;Free to Play;Indie,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+24461.0,Super Crate Box,Action;Free to Play;Indie,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+24463.0,Sang-Froid - Tales of Werewolves,Action;Adventure;Indie;RPG;Strategy,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+24467.0,The Plan,Casual;Free to Play;Indie,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+24504.0,Grand Theft Auto 2,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24512.0,Pink Hour,Action;Free to Play;Indie,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+24513.0,Pink Heaven,Action;Free to Play;Indie,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+24515.0,Apotheon Arena,Action;Free to Play;Indie,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+24909.0,Arma 2,Action;Simulation;Strategy,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+24910.0,Moonbase Alpha,Adventure;Simulation;Strategy,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+24915.0,Cry of Fear,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24916.0,POSTAL,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24918.0,Fistful of Frags,Action;Free to Play;Indie,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+25057.0,Peggle Extreme,Casual,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+25084.0,Endless Sky,Action;Adventure;Free to Play;RPG;Simulation,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0
+25403.0,CAFE 0 ~The Drowned Mermaid~,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+25417.0,The Clockwork Man,Indie;Casual,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+25491.0,Viking Brothers,Action;Casual;Strategy,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+25504.0,Crazy Plant Shop,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+25621.0,Kings of Kung Fu,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+25674.0,Thief Town,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+25691.0,Swipecart,Casual;Indie;Racing,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0
+25792.0,Space Farmers,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+25794.0,Tinboy,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+25843.0,Science Girls,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+25844.0,Shiny The Firefly,Action;Adventure;Casual;Indie,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+25847.0,Aberoth,Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG,1,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+25947.0,Crystals of Time,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+25951.0,Incredipede,Adventure;Indie;Simulation,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+25961.0,Asteria,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+25966.0,Humanity Asset,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+25979.0,Polarity,Action;Adventure;Indie;Strategy,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+26028.0,Unstoppable Gorg,Action;Casual;Indie;Strategy,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+26048.0,Jack Keane,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26059.0,Etherium,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+26074.0,Blob From Space,Casual;Indie;Early Access,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+26180.0,RoboBlitz,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26183.0,Larva Mortus,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26196.0,Flesh Eaters,Action;Adventure;Indie;RPG;Simulation,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0
+26209.0,CaesarIA,Free to Play;Indie;Strategy;Early Access,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+26210.0,Cosmonautica,Adventure;Indie;Simulation;Strategy,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+26250.0,Smooth Operators,Casual;Indie;Simulation;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0
+26267.0,MirrorMoon EP,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26342.0,A.R.E.S. Extinction Agenda EX,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26355.0,Shattered Planet,Indie;RPG;Strategy,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+26393.0,Shipwreck,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26411.0,Bridge Project,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+26438.0,Omegalodon,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26497.0,1000 Amps,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26531.0,Railroad Pioneer,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+26533.0,The Graveyard,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+26541.0,Autocraft,Casual;Indie;Simulation,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+26545.0,Spectraball,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+26559.0,Face Noir,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26567.0,Really Big Sky,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26610.0,Legend of Fae,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+26629.0,The Kings' Crusade,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+26643.0,AR-K,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26649.0,Cubemen 2,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+26687.0,Platypus II,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26727.0,Stonerid,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26729.0,Horizon,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+26740.0,Tidalis,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+26747.0,Shad'O,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+26771.0,Cubemen,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+26772.0,Dream,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26784.0,GamersGoMakers,Casual;Indie;Simulation;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0
+26851.0,Hacker Evolution,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+26852.0,Claire,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26862.0,Alpha Prime,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26864.0,Snapshot,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+26910.0,Intergalactic Bubbles,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+26914.0,Squirreltopia,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27013.0,Gunship!,Action;Simulation,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+27042.0,Haunted,Adventure;Casual,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+27072.0,Final Dusk,Action;Adventure;Casual;Indie,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+27083.0,Life is Hard,Adventure;Indie;Simulation;Strategy;Early Access,0,1,0,1,0,0,1,0,0,0,0,0,1,0,1,0
+27132.0,iO,Action;Indie;Racing,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+27162.0,Caster,Action;Adventure;Casual;Indie;RPG;Strategy,1,1,1,0,0,0,1,0,0,1,0,0,0,0,1,0
+27286.0,Immortal Empire,Free to Play;Indie;RPG;Strategy,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0
+27304.0,Who's That Flying?!,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+27394.0,Lucid,Indie;Casual,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+27407.0,Kingdom Tales 2,Casual,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+27445.0,Damnation,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27470.0,Fist Puncher,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27519.0,Boo Bunny Plague,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27661.0,GRAV,Action;Adventure;Indie;RPG;Early Access,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+27663.0,Jet Gunner,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27690.0,DETOUR,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+27720.0,Blood of the Werewolf,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27723.0,DarkEnd,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+27767.0,Bob Came in Pieces,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27768.0,Wickland,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27791.0,BIT.TRIP VOID,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27885.0,Void Destroyer,Action;Adventure;Indie;Simulation;Strategy,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+27914.0,Pacific Storm Allies,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+27955.0,The Masterplan,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+27974.0,Professional Farmer 2014,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+27988.0,GunWorld,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27992.0,Heli Heroes,Action;Casual,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+27998.0,Sandmason,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28006.0,Pro Cycling Manager 2014,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+28034.0,Chip,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+28064.0,Catmouth Island,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+28071.0,Flora's Fruit Farm,Casual,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+28147.0,Trouble In The Manor,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+28157.0,Slip,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28165.0,Burgers,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+28187.0,Theatre of War,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+28190.0,Cobi Treasure Deluxe,Casual,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+28209.0,Amazing Princess Sarah,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+28217.0,Chains,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28265.0,Tobe's Vertical Adventure,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28284.0,A Valley Without Wind,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28305.0,AXYOS,Action;Indie;Massively Multiplayer,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+28340.0,Critical Mass,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+28414.0,Achron,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+28438.0,Taxi,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+28444.0,Epic Cards Battle(TCG),Casual;Free to Play;Strategy,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+28466.0,Blockscape,Casual;Indie;RPG;Simulation;Strategy;Early Access,0,0,1,1,0,0,1,0,0,1,0,0,1,0,1,0
+28498.0,Fall of the New Age Premium Edition,Adventure;Casual,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+28825.0,Fat Chicken,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+29010.0,One Night,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+29357.0,Orborun,Action;Indie;Racing,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+29569.0,Castle,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+29612.0,Kill The Bad Guy,Action;Indie;Simulation;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+29639.0,Pro Cycling Manager 2015,Simulation;Sports,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+29671.0,Akane the Kunoichi,Action;Adventure;Casual;Indie,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+29695.0,"Hack, Slash, Loot",Casual;Indie;RPG,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+29709.0,Fancy Skulls,Action;Indie;Early Access,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+29714.0,Cyto,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+29758.0,RPG Tycoon,Adventure;Indie;RPG;Simulation;Strategy,0,1,0,0,0,0,1,0,0,1,0,0,1,0,1,0
+29808.0,Swarm Arena,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+29820.0,Merchants of Kaidan,Adventure;Indie;RPG;Simulation;Strategy,0,1,0,0,0,0,1,0,0,1,0,0,1,0,1,0
+29844.0,The Repopulation,Indie;Massively Multiplayer;RPG;Early Access,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0
+29882.0,LA Cops,Action;Adventure;Indie;Strategy,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+29922.0,Anoxemia,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+29980.0,Farming World,Casual;Indie;Simulation,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+30083.0,Redshirt,Indie;RPG;Simulation;Strategy,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0
+30126.0,Melissa K. and the Heart of Gold Collector's Edition,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+30141.0,Pound of Ground,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30151.0,Little Farm,Casual,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+30153.0,Motorbike,Action;Casual;Indie;Racing;Simulation;Sports,1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0
+30225.0,Canyon Capers,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+30238.0,Cricket Captain 2014,Sports,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+30253.0,Wasteland Angel,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30274.0,Planets Under Attack,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+30279.0,Nexuiz,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30295.0,Ride! Carnival Tycoon,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+30321.0,Guild Commander,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+30332.0,Adventurer Manager,Casual;Indie;RPG,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+30351.0,Lume,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+30374.0,The Few,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+30375.0,Armada 2526,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+30402.0,Zombie Grinder,Action;Adventure;Indie;RPG;Early Access,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+30406.0,Ampu-Tea,Adventure;Casual;Indie;RPG;Simulation,0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0
+30414.0,Cricket Revolution,Indie;Simulation;Sports,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0
+30437.0,Blaster Shooter GunGuy!,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30462.0,Gunslugs 2,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30532.0,Spirits,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+30572.0,Rugby League Team Manager 2015,Action;Casual;Simulation;Sports;Strategy,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0
+30619.0,Grimind,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30640.0,Pressured,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30678.0,Signal Ops,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+30686.0,Final Slam 2,Action;Casual;Indie;Sports,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+30700.0,Kidnapped,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30763.0,Skyward Collapse,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+30802.0,Point Perfect,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+30804.0,DogFighter,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30815.0,The UnderGarden,Casual,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+30852.0,Spartans Vs Zombies Defense,Action;Casual;Free to Play;Indie;Strategy,1,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0
+30927.0,Tank Universal,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30943.0,Foosball - Street Edition,Casual;Indie;Sports,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+30962.0,Ignite,Racing,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+30967.0,Party of Sin,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30974.0,Arcane Worlds,Action;Adventure;Early Access;Indie;Strategy,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+30990.0,Darkout,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+31053.0,Guncraft,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+31222.0,Commando Jack,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+31247.0,Democracy 2,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+31350.0,Lunch Truck Tycoon,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+31405.0,Planet Explorers,Action;Adventure;Indie;RPG;Simulation,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0
+31425.0,Probably Archery,Action;Casual;Indie;Sports,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+31427.0,Booster Trooper,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+31442.0,Jumpdrive,Action;Adventure;Indie;Simulation,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+31449.0,Kyn,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+31469.0,ENKI,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+31492.0,Dungeon Hearts,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+31576.0,CroNix,Action;Casual;Free to Play;Strategy,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+31590.0,Inside The Gear,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+31691.0,Delve Deeper,Adventure;Indie;RPG;Strategy,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+31719.0,Blade Symphony,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+31726.0,Zack Zero,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+31747.0,Farlight Explorers,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+31789.0,Naval Warfare,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+31805.0,BIT.TRIP CORE,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+31826.0,Big Brain Wolf,Adventure;Casual;Strategy,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+31939.0,Noir Syndrome,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+31952.0,Speed Kills,Action;Indie;Racing,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+31981.0,Montague's Mount,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32114.0,R.O.O.T.S,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+32162.0,Plain Sight,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32166.0,Dream Of Mirror Online,Adventure;Free to Play;Massively Multiplayer;RPG,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+32214.0,Space Warp,Action;Indie;Racing,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+32232.0,99 Levels To Hell,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32254.0,Crouching Pony Hidden Dragon,Action;Indie;RPG,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+32259.0,1Quest,Indie;RPG,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+32261.0,Yury,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32280.0,Project Explore,Action;Adventure;Casual;Indie;Simulation,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+32289.0,The Nightmare Cooperative,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+32291.0,Antisquad,Action;Adventure;Strategy,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+32368.0,Akuatica,Action;Adventure;Casual;Indie,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+32460.0,Power-Up,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32469.0,Wild Warfare,Action;Free to Play;Indie;Early Access,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+32473.0,Tkl Online,Action;Indie;RPG,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+32542.0,Requiem,Action;Massively Multiplayer;RPG;Early Access,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0
+32633.0,Roogoo,Casual,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+32639.0,Famaze,Casual;Free to Play;Indie;RPG;Strategy,0,0,1,0,1,0,1,0,0,1,0,0,0,0,1,0
+32764.0,Fingerbones,Adventure;Free to Play;Indie,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+32787.0,Solar Flux,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+32809.0,Perpetuum,Indie;Massively Multiplayer;RPG,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+33032.0,The Howler,Casual;Indie;Simulation;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0
+33038.0,Dev Guy,Adventure;Free to Play;Indie,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+33090.0,Hammerfight,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+33098.0,Destination Sol,Action;Free to Play;Indie;RPG,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+33189.0,Air Brawl,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+33415.0,Serena,Adventure;Indie,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+33417.0,Ascendant,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+33418.0,Battle Islands,Free to Play;Simulation;Strategy,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+33419.0,The Way of Life Free Edition,Free to Play;Indie,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+33420.0,Republique,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+33421.0,Color Symphony,Action;Free to Play;Indie,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+33491.0,Coniclysm,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33520.0,BIT.TRIP FATE,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+33541.0,The Dreamatorium of Dr. Magnus 2,Adventure;Casual,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+33580.0,Metrocide,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+33585.0,Light,Action;Adventure;Indie;Strategy,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+33589.0,Afterlife Empire,Casual;Indie;Strategy,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+33593.0,Rhythm Destruction,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+33613.0,Rigonauts,Strategy;Indie;Casual;Simulation,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0
+33632.0,Rustbucket Rumble,Action;Casual;Free to Play;Indie,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+33666.0,Borealis,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+33895.0,Victim of Xen,Adventure;Casual;RPG,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+33906.0,The Forgotten Ones,Action;Adventure;Free to Play;Indie,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+33912.0,Heroes of Scene,Free to Play;Indie;Massively Multiplayer;Strategy,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0
+33922.0,Revelations 2012,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+33941.0,ProtoGalaxy,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+33943.0,Curse of Mermos,Action;Free to Play;Indie,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+33968.0,Velvet Sundown,Adventure;Casual;Free to Play;Indie;RPG,0,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0
+33969.0,War of Beach,Action;Free to Play;Simulation;Strategy,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+33991.0,TDP5 Arena 3D,Action;Free to Play;Massively Multiplayer,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+33992.0,Walkover,Action;Free to Play;Indie,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+34003.0,Deepworld,Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;RPG;Early Access,1,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0
+34045.0,Racer 8,Casual;Racing,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+34149.0,Kill Fun Yeah,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+34191.0,FIST OF AWESOME,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+34322.0,Fading Hearts,Adventure;Indie;Simulation,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+34332.0,All Is Dust,Adventure;Free to Play,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+34668.0,Metaverse Construction Kit,Casual;Free to Play;Indie;Simulation,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0
+34669.0,Battlestations Pacific,Action;Strategy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+34765.0,Shift 2 Unleashed,Racing,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+34769.0,Oil Rush,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+34771.0,A Valley Without Wind 2,Action;Adventure;Indie;Strategy,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+34773.0,8BitMMO,Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG,1,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+34774.0,Particulars,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+34776.0,Passing Pineview Forest,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+34778.0,Among Ripples,Casual;Free to Play;Indie;Simulation,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0
+34783.0,Copa Petrobras de Marcas,Free to Play;Racing;Simulation;Sports,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0
+34802.0,Anarchy Arcade,Casual;Free to Play;Indie;Early Access,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+34803.0,Depression Quest,Free to Play;Indie;RPG;Simulation,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0
+35258.0,Sacred 3,Action;RPG,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+35299.0,Cities XXL,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+35307.0,Arma Tactics,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+35315.0,Airline Tycoon 2,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+35334.0,Eaten Alive,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+35365.0,Theme Park Studio,Indie;Simulation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+35388.0,Hacker Evolution Duality,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+35423.0,Down To One,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35446.0,Stellar 2D,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+35458.0,Autobahn Police Simulator,Casual;Simulation,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+35464.0,A Game of Thrones - Genesis,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+35527.0,Genesis Rising,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+35530.0,Uriel's Chasm,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+35564.0,Eurofighter Typhoon,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35586.0,Better Late Than DEAD,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+35604.0,16bit Trader,Adventure;Casual;Indie;RPG;Simulation;Strategy,0,1,1,0,0,0,1,0,0,1,0,0,1,0,1,0
+35638.0,Real Horror Stories Ultimate Edition,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+35644.0,Shadows of War,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+35669.0,Jagged Alliance Flashback,Indie;RPG;Strategy,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+35699.0,Spacebase DF-9,Indie;Simulation;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+35739.0,Edge of Space,Action;Adventure;Indie;RPG,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+35790.0,Dream Pinball 3D,Casual;Simulation,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+35811.0,Warehouse and Logistics Simulator,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+35879.0,SUPER DISTRO,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+35937.0,Dead Mountaineer's Hotel,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35954.0,The Undying Plague,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+35976.0,Towns,Indie;RPG;Simulation;Strategy,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0
+36017.0,Gemini Wars,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+36037.0,Island Flight Simulator,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+36064.0,The Clans - Saga of the Twins,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+36097.0,Dead Horde,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+36113.0,Minimon,Indie;Massively Multiplayer;RPG;Early Access,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0
+36116.0,15 Days,Adventure;Casual;Indie,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+36125.0,Obludia,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+36142.0,Shallow Space,RPG;Simulation;Strategy;Early Access,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0
+36156.0,FRONTIERS,Adventure;Casual;Indie;RPG;Early Access,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0
+36162.0,M.U.D. TV,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+36165.0,Slam Bolt Scrappers,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+36185.0,Habitat,Action;Indie;Simulation;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+36194.0,Flight of the Icarus,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+36243.0,Twin Sector,Action;Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36247.0,World Basketball Manager 2010,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+36250.0,Chaos Domain,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+36264.0,QuestRun,RPG,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+36271.0,Confrontation,Action;RPG;Strategy,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+36282.0,SlamIt Pinball Big Score,Casual,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+36344.0,Tryst,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+36394.0,Nux,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36419.0,Despair,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+36434.0,The Fifth Day,Action;Adventure;Indie;Early Access,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+36476.0,Bad Hotel,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+36517.0,Hyper Fighters,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36528.0,Samantha Swift and the Golden Touch,Casual,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+36616.0,APOX,Action;Indie;Strategy,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+36688.0,Apollo4x,Action;Adventure;Casual;Indie;RPG;Simulation;Strategy,1,1,1,0,0,0,1,0,0,1,0,0,1,0,1,0
+36689.0,Tiamat X,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+36730.0,GASP,Action;Casual;Free to Play;Indie;Simulation;Strategy,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0
+36762.0,Robotex,Action;Adventure;Casual;Indie,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+36873.0,Game Tycoon 1.5,Simulation;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+37141.0,Towtruck Simulator 2015,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+37223.0,Metal Planet,Action;Indie,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+37232.0,Draconian Wars,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+37273.0,Infect and Destroy,Action;Casual;Indie;Simulation;Strategy;Early Access,1,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0
+37281.0,Cannons Lasers Rockets,Action;Free to Play;Indie;Massively Multiplayer,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+37286.0,HIT,Free to Play,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+37313.0,Shadow of Kingdoms,Free to Play;Strategy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+37322.0,Genesis Online,Action;Free to Play,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+37562.0,Pro Rugby Manager 2015,Simulation;Sports;Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+37689.0,Skyscraper Simulator,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+37721.0,Lords of the Black Sun,Indie;Strategy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+37777.0,Citadels,Action;Strategy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+38048.0,Airport Simulator 2014,Simulation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+39394.0,Kinetic Void,Action;Indie;Simulation,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+39663.0,Magnetic By Nature,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+42799.0,Robot Rescue Revolution,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+46091.0,Starlaxis Supernova Edition,Action;Casual;Indie;Strategy,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+46481.0,Fatty Maze's Adventures,Adventure;Casual;Indie;Simulation,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+47045.0,The Sun at Night,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+47507.0,Pyramid Raid,Action;Casual;Indie,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+47654.0,Escape,Free to Play;Indie;Strategy,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0
+53437.0,Third Eye Crime,Action;Adventure;Indie,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+53830.0,Rotieer,Casual;Indie,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+62064.0,500 Years Act 1,Adventure;Indie;RPG,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
